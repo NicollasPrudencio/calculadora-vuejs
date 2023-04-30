@@ -1,29 +1,7 @@
-# exercicio_vuejs
+# Exercicio vueJS
 
-This template should help get you started developing with Vue 3 in Vite.
+A entrega consiste em criar uma calculadora com as operações aritméticas básicas e dois campos pra numeros com a operação feita de forma automática, tudo utilizando o framework front-end vueJS.
 
-## Recommended IDE Setup
+## Deploy
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+https://calculadora-vuejs-nic37.vercel.app/
